@@ -1,6 +1,6 @@
-## Autorzy:
-# Szymon Śliwa
-## React
+# Autorzy:
+## Szymon Śliwa
+# React
 Jest to biblioteka języka programowania JavaScript wykorzystywana do tworzenia interfejsów graficznych stron internetowych.
 Została zainspirowana rozszerzeniem języka PHP - XHP.
 Jest najczęściej wykorzystywany do tworzenia aplikacji SPA (Single Page Application).
